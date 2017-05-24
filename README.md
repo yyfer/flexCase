@@ -10,7 +10,6 @@
 ## 容器属性：
 1. flex-direction         定义主轴方向
 	row | row-reverse | column | column-reverse 
-    
 2. flex-wrap              项目默认是排在一条轴线上的，wrap定义如何换行
 no-wrap | wrap | wrap-reverse（换行，第一行在下方）
 3. flex-flow              上面两个属性的简写形式
